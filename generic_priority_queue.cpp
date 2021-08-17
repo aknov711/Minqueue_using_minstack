@@ -1,4 +1,4 @@
-///author : Kartik Arora
+// author: aknov711
 
 #ifndef MAXHEAP_H
 #define MAXHEAP_H
