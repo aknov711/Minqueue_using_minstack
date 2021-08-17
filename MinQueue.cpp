@@ -1,4 +1,4 @@
-/// author : kartik8800
+/// author : aknov711
 #ifndef MINQUEUE_H
 #define MINQUEUE_H
 #include "MinStack.h"
